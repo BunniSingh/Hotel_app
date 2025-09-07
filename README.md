@@ -195,8 +195,7 @@ The application is fully responsive and optimized for:
 3. Add environment variables for Firebase config
 4. Deploy
 
-### Lovable (Current Platform)
-Simply open [Lovable](https://lovable.dev/projects/68a34454-7fd2-4df5-bfda-e134255be2f7) and click on Share -> Publish.
+### vercel (Current Platform)
 
 ## 🔍 API Documentation
 
@@ -265,5 +264,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-# Hotel_app
