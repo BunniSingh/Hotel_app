@@ -195,6 +195,7 @@ The application is fully responsive and optimized for:
 3. Add environment variables for Firebase config
 4. Deploy
 
+### vercel (Current Platform)
 
 ## 🔍 API Documentation
 
